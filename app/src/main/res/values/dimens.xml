@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="menu_separator">200dp</dimen>
+    <dimen name="menu_text">20dp</dimen>
+    <dimen name="menu_text_icon">20dp</dimen>
+    <dimen name="menu_text_button">18dp</dimen>
+    <dimen name="menu_text_field">16dp</dimen>
+    <dimen name="menu_text_size">16dp</dimen>
+    <dimen name="menu_text_header">24dp</dimen>
+    <dimen name="menu_icon">100dp</dimen>
+</resources>

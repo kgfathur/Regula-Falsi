@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pens.kgf.testfunction">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/regulaicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="Penggunaan Regula Falsi"
+            android:name=".MainRegula"></activity>
+        <activity
+            android:label="Metode Regula Falsi"
+            android:name=".MainHome"></activity>
+        <activity
+            android:label="Teori Metode Regula Falsi"
+            android:name=".Teori"></activity>
+        <activity
+            android:label="Flowchart Metode Regula Falsi"
+            android:name=".Flowchart"></activity>
+        <activity
+            android:label="Algoritma Metode Regula Falsi"
+            android:name=".Algoritma"></activity>
+    </application>
+
+</manifest>

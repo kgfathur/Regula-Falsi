@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"
+    android:background="#F3F3F3">
+
+    <!-- icon -->
+    <TextView
+        android:id="@+id/item_iterasi"
+        android:text="XX"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/menu_text_size"
+        />
+
+    <!-- title -->
+    <TextView
+        android:id="@+id/item_bawah"
+        android:text="ZZZ"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/menu_text_size" />
+
+    <TextView
+        android:id="@+id/item_atas"
+        android:text="WWW"
+        android:textColor="@android:color/black"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="@dimen/menu_text_size" />
+
+    <TextView
+        android:id="@+id/item_nilaix"
+        android:text="WWW"
+        android:textColor="@android:color/black"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="@dimen/menu_text_size" />
+
+    <TextView
+        android:id="@+id/item_nilaifx"
+        android:text="WWW"
+        android:textColor="@android:color/black"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="@dimen/menu_text_size" />
+
+</LinearLayout>

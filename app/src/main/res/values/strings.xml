@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MetNum</string>
+    <string name="str_menu2">Algoritma</string>
+    <string name="str_menu1">Teori</string>
+    <string name="str_menu3">Flowchart</string>
+    <string name="str_menu4">Coba Hitung</string>
+    <string name="str_menu5">Sourcode Program</string>
+    <string name="str_menu6">Bagikan App</string>
+</resources>
